@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(235, 235, 235, 0.862);
+}
+
+.topDiv {
+
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-right: -8px;
+
+    font-size: 30px;
+}
+
+.signTable {
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 300px;
+}
+#searchButt{
+    position: absolute;
+    -webkit-text-fill-color: black;
+    width: 70px;height: 40px;
+    right: 500px;
+    top: 55px;
+}
+.searchText{
+    position: fixed;
+    -webkit-text-fill-color: black;
+    -webkit-text-size-adjust: auto;
+    width: 700px; height: 30px;
+    margin-top: 60px;
+}
+.maintab{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.botm {
+    width: 500px;
+    height: 100px;
+    bottom: 0;
+    position: absolute;
+}
